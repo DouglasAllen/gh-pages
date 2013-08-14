@@ -1,0 +1,1 @@
+I just merged gh-pages branch changes into master branch
