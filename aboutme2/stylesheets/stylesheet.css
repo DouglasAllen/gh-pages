@@ -329,6 +329,7 @@ div#navcontainer ul li a {
   color: blue;
   text-decoration: none;
   border-right: 1px solid #aa2004;
+  border-left: 1px solid #aa2004;
 }
 
 span.disabled {
