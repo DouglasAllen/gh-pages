@@ -329,6 +329,7 @@ div#navcontainer ul li a {
   color: blue;
   text-decoration: none;
   border-right: 1px solid #aa2004;
+  border-left: 1px solid #aa2004;
 }
 
 span.disabled {
@@ -336,6 +337,7 @@ span.disabled {
   color: #aa2004;
   text-decoration: none;
   border-right: 1px solid #C12820;
+  border-left: 1px solid #C12820;
 }
 
 div#navcontainer ul li a:hover {
