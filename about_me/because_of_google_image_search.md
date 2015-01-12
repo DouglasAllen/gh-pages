@@ -4,7 +4,11 @@ http://www.verious.com/qa/ruby-on-rails-in-spring-source-tool-suite/
 
 http://feeltiptop.com/background%20screen
 
-http://www.youtube.com/watch?v=V7m3QGAr3XU
+FreshmenProfessional Development 
+https://www.youtube.com/watch?v=7yW9nKjmEwU
+https://www.youtube.com/watch?v=mXI84sliAmc
+https://www.youtube.com/watch?v=0lxJVGDv9GM
+https://www.youtube.com/watch?v=V7m3QGAr3XU
 
 http://openstudy.com/updates/50c92b08e4b09c5571445323
 
